@@ -10,7 +10,7 @@ Uma implementação moderna, robusta e **totalmente funcional** do Steam Desktop
 
 ## ✨ Funcionalidades
 
-- 🛡️ **Autenticação Moderna (2025)**: Suporte ao novo fluxo `IAuthenticationService` para vincular novos autenticadores.
+- 🛡️ **Autenticação Moderna (2026)**: Suporte ao novo fluxo `IAuthenticationService` para vincular novos autenticadores.
 - 📱 **Geração de Códigos 2FA**: Gerador de códigos TOTP em tempo real com barra de sincronização.
 - 🤝 **Gestão de Confirmações**: Visualize, aceite ou recuse trocas (trades) e listagens no mercado da comunidade.
 - 💾 **Persistência de Sessão**: Armazenamento seguro de tokens de sessão para evitar logins repetitivos.
@@ -111,5 +111,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 *Desenvolvido com ❤️ para a comunidade Steam.*
+
 
 
