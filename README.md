@@ -30,7 +30,7 @@ Uma implementação moderna, robusta e **totalmente funcional** do Steam Desktop
 
 1. **Clone o repositório ou baixe os arquivos:**
    ```powershell
-   git clone https://github.com/seu-usuario/python-sda.git
+   git clone https://github.com/entrylurker2104/steamguarddesktop.git
    cd python-sda
    ```
 
@@ -111,3 +111,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 *Desenvolvido com ❤️ para a comunidade Steam.*
+
