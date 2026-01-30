@@ -1,0 +1,4 @@
+PyQt6
+https://github.com/ValvePython/steam/archive/master.zip
+protobuf<5.0.0
+pycryptodome

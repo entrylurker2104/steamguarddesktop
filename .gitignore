@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+outros.txt
+build/
+dist/
+*.spec
+credentials.json
+upload/
+service_account.json
+
+# Settings & Secrets (IMPORTANT)
+accounts_config.json
+*.maFile
+
+# Logs & Traces
+*.log
+trace.txt
+full_trace.txt
+
+# IDE
+.vscode/
+.idea/
+
+# System
+Thumbs.db
+desktop.ini
+
+# Reference Code (Optional - remove # to ignore C# source if not wanted in repo)
+# SteamDesktopAuthenticator/

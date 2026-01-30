@@ -1,0 +1,54 @@
+{
+    "mrtonimuller_2004ld": {
+        "shared_secret": "XMTzyKiub9dUC1u9RPvZk627uxc=",
+        "serial_number": "9358893923028915227",
+        "revocation_code": "R05148",
+        "uri": "otpauth://totp/Steam:mrtonimuller2004ld?secret=LTCPHSFIVZX5OVALLO6UJ66ZSOW3XOYX&issuer=Steam",
+        "server_time": 1769358662,
+        "account_name": "mrtonimuller_2004ld",
+        "token_gid": "5d6799b103fc0eb",
+        "identity_secret": "mu58qJ59qaIjFT9F0wsT4u+Zo1o=",
+        "secret_1": "qQWyshMwej236cKp47DhyfLol/Q=",
+        "status": 1,
+        "device_id": "android:28b713b2-1de1-4631-810f-7ff862966ea4",
+        "fully_enrolled": true,
+        "Session": {
+            "SteamID": 76561199530304710,
+            "AccessToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAxNV8yNzk5QjE1Ml8xNThGMSIsICJzdWIiOiAiNzY1NjExOTk1MzAzMDQ3MTAiLCAiYXVkIjogWyAid2ViIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3Njk0NDU5MjMsICJuYmYiOiAxNzYwNzE4NjU5LCAiaWF0IjogMTc2OTM1ODY1OSwgImp0aSI6ICIwMDA4XzI3OTlCMTQ1X0UxODNEIiwgIm9hdCI6IDE3NjkzNTg2NTksICJydF9leHAiOiAxNzg3NTM3NTYxLCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiMjAwLjIxNy40LjUyIiwgImlwX2NvbmZpcm1lciI6ICIyMDAuMjE3LjQuNTIiIH0.PD_sgT6gWSc2wJDlqfMbe_8vusejRhjVhkCI0ckYJZYKH1NnbioeVFWaa5GDAx1mNEm70iTmr04XD9sVMeybCw",
+            "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTUzMDMwNDcxMCIsICJhdWQiOiBbICJ3ZWIiLCAicmVuZXciLCAiZGVyaXZlIiwgIm1vYmlsZSIgXSwgImV4cCI6IDE3ODc1Mzc1NjEsICJuYmYiOiAxNzYwNzE4NjU5LCAiaWF0IjogMTc2OTM1ODY1OSwgImp0aSI6ICIwMDE1XzI3OTlCMTUyXzE1OEYxIiwgIm9hdCI6IDE3NjkzNTg2NTksICJwZXIiOiAxLCAiaXBfc3ViamVjdCI6ICIyMDAuMjE3LjQuNTIiLCAiaXBfY29uZmlybWVyIjogIjIwMC4yMTcuNC41MiIgfQ.T_wLQlEN4Z7f1_nBPIGqCWHIOg9J2ml1d6I2PX1BEb46J7ifBqcK4V93vScizKpa2QTVihUgFgWaBicvsmghAw",
+            "SessionID": null
+        }
+    },
+    "akitech12": {
+        "shared_secret": "NQEEw7AnCA5tM3GQrsxriCibKWA=",
+        "serial_number": "11889942033495469094",
+        "revocation_code": "R43387",
+        "uri": "otpauth://totp/Steam:akitech12?secret=GUAQJQ5QE4EA43JTOGIK5TDLRAUJWKLA&issuer=Steam",
+        "server_time": "1769716470",
+        "account_name": "akitech12",
+        "token_gid": "6827a2ec9510a5d",
+        "identity_secret": "95fg41C3jl+XgL1vCJoXSNT2nrs=",
+        "secret_1": "UQDpoVrxC9CI7GtMgEFIQwT5dHE=",
+        "status": 1,
+        "confirm_type": 3,
+        "Session": {
+            "SteamID": 76561198783772888,
+            "AccessToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAwNV8yN0EyRUNBNl8yQkMxNSIsICJzdWIiOiAiNzY1NjExOTg3ODM3NzI4ODgiLCAiYXVkIjogWyAiY2xpZW50IiwgIndlYiIgXSwgImV4cCI6IDE3Njk4MDYwMzMsICJuYmYiOiAxNzYxMDc5Mzg4LCAiaWF0IjogMTc2OTcxOTM4OCwgImp0aSI6ICIwMDBCXzI3QTJFQ0E3XzVENzk5IiwgIm9hdCI6IDE3Njk3MTkzODgsICJydF9leHAiOiAxNzg3ODkxNzk4LCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiMTc3LjUwLjIwNC4yMzgiLCAiaXBfY29uZmlybWVyIjogIjE3Ny41MC4yMDQuMjM4IiB9.yOwpVIzPcD5U1eVo2ZgjooLwnAES8bBzKNxCSj75dFTkuciPfWNe2u3e2INO8Apy5I0yIpb-3nhBLQBPU-94Cg",
+            "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5ODc4Mzc3Mjg4OCIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3ODc4OTE3OTgsICJuYmYiOiAxNzYxMDc5Mzg4LCAiaWF0IjogMTc2OTcxOTM4OCwgImp0aSI6ICIwMDA1XzI3QTJFQ0E2XzJCQzE1IiwgIm9hdCI6IDE3Njk3MTkzODgsICJwZXIiOiAxLCAiaXBfc3ViamVjdCI6ICIxNzcuNTAuMjA0LjIzOCIsICJpcF9jb25maXJtZXIiOiAiMTc3LjUwLjIwNC4yMzgiIH0.1TpF5hLeoFHpT_i2cKAF2nVvNjoIsj1MBQ380O6o5h0tJur7NBUehZ3lBhlhMj1mw2-l6WfMQWyiqTA2ufLeCA",
+            "SessionID": null
+        }
+    },
+    "akitech13": {
+        "shared_secret": "aIIcgNvoRPtn2TDyMpTGdBoQcBc=",
+        "serial_number": "3648822636128549065",
+        "revocation_code": "R53365",
+        "uri": "otpauth://totp/Steam:akitech13?secret=NCBBZAG35BCPWZ6ZGDZDFFGGOQNBA4AX&issuer=Steam",
+        "server_time": "1769718252",
+        "account_name": "akitech13",
+        "token_gid": "1ce7a2ec8b137ef",
+        "identity_secret": "oQNccB46cQr8svPTO0viz2S+P0w=",
+        "secret_1": "m/jmMNwqLL9pJtNPYitjJ+rg6BQ=",
+        "status": 1,
+        "confirm_type": 3
+    }
+}
